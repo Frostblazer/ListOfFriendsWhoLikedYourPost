@@ -1,0 +1,13 @@
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.exe
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.deps.json
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.runtimeconfig.json
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.runtimeconfig.dev.json
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.dll
+C:\Users\Shawn\source\repos\SocialMediaFriends\bin\Debug\netcoreapp3.1\SocialMediaFriends.pdb
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.csprojAssemblyReference.cache
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.dll
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.pdb
+C:\Users\Shawn\source\repos\SocialMediaFriends\obj\Debug\netcoreapp3.1\SocialMediaFriends.genruntimeconfig.cache
